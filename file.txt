@@ -1,2 +1,6 @@
 Hello!
+<<<<<<< HEAD
 Nice to meet you
+=======
+Good bye
+>>>>>>> testing
